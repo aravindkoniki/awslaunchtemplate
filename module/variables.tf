@@ -9,11 +9,6 @@ variable "description" {
   default     = null
 }
 
-variable "environment" {
-  description = "To manage a resources with tags"
-  type        = string
-}
-
 variable "tags" {
   description = "A map of tags to add to all resources"
   type        = map(string)

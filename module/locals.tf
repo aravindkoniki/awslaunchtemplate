@@ -1,3 +1,3 @@
 locals {
-  prefix = "${var.prefix}-${var.environment}-${var.name}"
+  prefix = "${var.prefix}-${var.name}"
 }
