@@ -1,0 +1,2 @@
+# awslaunchtemplate
+AWS Launch Template
